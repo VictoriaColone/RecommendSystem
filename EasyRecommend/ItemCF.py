@@ -22,7 +22,7 @@ class ItemBasedCF():
         # 电影流行度，用于算法中惩罚
         self.movie_popular = {}
         self.movie_count = 0
-        # test SmartGit
+        # test SmartGit merge
 
         print('Similar movie number = %d' % self.n_sim_movie)
         print('Recommneded movie number = %d' % self.n_rec_movie)
