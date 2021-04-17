@@ -1,4 +1,4 @@
-#!/Users/yutao12/Documents/AndroidStudio/RecommendSystem/venv/bin/Python
+#!/Users/apple/Documents/PycharmProjects/RecommendSystem/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

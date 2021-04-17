@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/yutao12/Documents/AndroidStudio/RecommendSystem/venv"
+set -gx VIRTUAL_ENV "/Users/apple/Documents/PycharmProjects/RecommendSystem/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
